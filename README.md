@@ -1,4 +1,4 @@
-# ClassicalMechanics
+# Classical Mechanics
 This is a repository centered around learning classical mechanics (Physics)
 
 
@@ -16,3 +16,7 @@ This is a section that attempts to describe, in the simplest terms possible, the
 
 ## Example
 No point in doing this without clear cut examples to work through!
+
+
+### If you want to know more about the Feynman Technique:
+https://mattyford.com/blog/2014/1/23/the-feynman-technique-model
